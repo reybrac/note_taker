@@ -15,7 +15,8 @@
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 Screenshot of application:
-![alt Note Take](https://github.com/reybrac/note_taker/blob/main/public/assets/Note-taker-image.JPG?raw=true)
+![alt Note Take Home](https://github.com/reybrac/note_taker/blob/main/public/assets/Note-taker-image1.JPG?raw=true)
+![alt Note Take Notes](https://github.com/reybrac/note_taker/blob/main/public/assets/Note-taker-image2.JPG?raw=true)
 
 ## Installation instructions: 
 This application is deployed to Heroku at: https://reybrac-note-taker.herokuapp.com/. If running this from a local computer, the repository must first be cloned and run by inputting "node server.js" in the command line. This application can then be viewed in a browser by visiting "http://localhost:3000".
